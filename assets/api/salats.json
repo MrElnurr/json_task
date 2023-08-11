@@ -1,0 +1,19 @@
+{
+  "salat": [
+    {
+      "name": "Stolicniy",
+      "price": 3,
+      "kcal": "350"
+    },
+    {
+      "name": "Pomidor-Xiyar",
+      "price": 2,
+      "kcal": "50"
+    },
+    {
+      "name": "Kiyevskiy",
+      "price": 5,
+      "kcal": "400"
+    }
+  ]
+}
